@@ -3,6 +3,7 @@
   "name": "Hue Service Advanced",
   "config_flow": true,
   "documentation": "https://www.home-assistant.io/integrations/hue",
+  "version": "1.3.5",
   "ssdp": [],
   "homekit": {},
   "dependencies": ["hue"],
